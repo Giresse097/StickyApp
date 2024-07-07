@@ -51,8 +51,6 @@ python manage.py migrate
 ```sh
 python manage.py runserve
 
-
-
 ## Usage
 1. Open your web browser and navigate to
 `http://127.0.0.1:8000`.
