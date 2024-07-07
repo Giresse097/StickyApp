@@ -16,7 +16,7 @@ principles of object oriented programming.
 
 ## Installation
 Follow these steps to get the project running locally:
-1. **Clone the repository**:
+1. Clone the repository:
 ```sh
 git clone
 https://github.com/your_username/stickyapp
@@ -26,7 +26,7 @@ cd stickyapp
 -
 crud
 ```
-2. **Create a virtual environment**:
+2. Create a virtual environment:
 ```sh
 python
 -
@@ -37,19 +37,21 @@ Scripts
 \
 activate`
 ```
-3. **Install the dependencies**:
+3. Install the dependencies:
 ```sh
 pip install
 -
 r requirements.txt
 ```
-4. **Apply migrations**:
+4. Apply migrations:
 ```sh
 python manage.py migrate
 ```
-5. **Run the development server**:
+5. Run the development server:
 ```sh
 python manage.py runserve
+
+
 
 ## Usage
 1. Open your web browser and navigate to
